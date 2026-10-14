@@ -1,4 +1,4 @@
-# Durga Gerua Sketch
+# Maa Durga Gerua Sketch
 
 Animated gerua (red-ochre) pencil sketch of `image.png`, revealed stroke-by-stroke in a Pygame window.
 
